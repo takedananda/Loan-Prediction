@@ -13,4 +13,4 @@ My overall workflow was as follows:
 
 The highlight of this project is the latter parts, in which I treated the problem as a business case rather than a data science competition. I investigated how the business can optimize profits under different pricing assumptions. I also computed metrics that will get organizational buy-ins to get the model in production.
 
-For more information about the data, please refer to AnalyticsVidhya site: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
+For more information about the data, please refer to the AnalyticsVidhya site: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
